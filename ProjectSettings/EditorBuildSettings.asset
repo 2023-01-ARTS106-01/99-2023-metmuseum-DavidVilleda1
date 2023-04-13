@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SADASDSA.unity
+    guid: bef872b3b6f89054ca8cc9d55a4348d7
   m_configObjects: {}
